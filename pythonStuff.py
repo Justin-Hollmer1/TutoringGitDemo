@@ -15,4 +15,8 @@ thisIsCamelCase = "camel case"
 
 # This is a change thats being made on line 16
 
+<<<<<<< HEAD
 # Adding in a navbar
+=======
+#Adding in a button to click
+>>>>>>> main
